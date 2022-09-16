@@ -1,0 +1,32 @@
+body {
+  background-color: grey;
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+}
+.Hi{
+  color: blue;
+
+}
+
+
+
+.cloud-1{
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+.cloud-2{
+  position: absolute;
+  left: 20px;
+  top: 10px;
+}
+
+.mountain-1{
+  position: relative;
+  top: 50px;
+}
+
+.top-container{
+  padding-top: 10px;
+}
